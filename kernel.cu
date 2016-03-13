@@ -4,7 +4,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <GL/glu.h>
-#include "Vector3D.h"
+//#include "Vector3D.h"
 
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
