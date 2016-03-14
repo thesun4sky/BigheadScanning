@@ -1,2 +1,2 @@
 # BigheadScanning
-2D CT arr Scanning
+3D CT arr Scanning with CUDA
